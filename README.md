@@ -9,7 +9,7 @@
 
 ---
 
-### 분석에 사용된 라이브러리
+### 분석에 사용된 패키지
 * 전반적인 데이터 전처리: dplyr, tidyr, stringr
 * 시간 데이터 전처리: lubridate
 * 위도, 경도: sf, transformr
