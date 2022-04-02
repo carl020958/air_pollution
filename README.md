@@ -1,5 +1,4 @@
 ## Korea Air Pollution Analysis
----
 코로나 전후의 대기오염 변화 및 지역별 대기오염 정도의 차이 분석 프로젝트
 * 분석 방법: 대응표본 t검정, ANOVA 분석
 
